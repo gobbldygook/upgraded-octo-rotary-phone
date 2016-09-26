@@ -1,1 +1,1 @@
-./school-stolaf/README.md
+# school-stolaf

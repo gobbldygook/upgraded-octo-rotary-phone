@@ -1,1 +1,1 @@
-./core/examine-student/README.md
+# examine-student

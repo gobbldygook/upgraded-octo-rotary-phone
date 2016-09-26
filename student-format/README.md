@@ -1,1 +1,1 @@
-./core/student-format/README.md
+# student-format

@@ -1,1 +1,1 @@
-./core/search-queries/README.md
+# search-queries
